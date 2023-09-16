@@ -1,6 +1,8 @@
 # AutoCoffee
 Coffee machined turned on at 0640 and 1620 (04:20 pm) using C++ and an Elegoo Uno R3 kit plus coffee maker to replace the need for me in the morning to get up and make station coffee, saving myself sleep as well as automatically refilling coffee for all firefighters
 The mechanism is controlled via Blink and activates a Servo motor with tape and my fingerprint as the initial motor would run but not register
+
+
 Going forward I will be adding a Bluetooth module and using MIT App Inventor to allow for myself to have signal sent from my cell phone for mechanism to trigger.
 Add a power source to the Elegoo Kit
 Allows me to not have computer connected to the Elegoo kit and prevent spills which would short circuit my laptop

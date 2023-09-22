@@ -7,10 +7,12 @@ The mechanism is controlled via Blink and activates a Servo motor with tape and 
 
 Going forward I will be adding a Bluetooth module and using MIT App Inventor to allow for myself to have signal sent from my cell phone for mechanism to trigger.
 Add a power source to the Elegoo Kit
-Allows me to not have computer connected to the Elegoo kit and prevent spills which would short circuit my laptop
+Allows me to not have computer connected to the Elegoo kit and prevent spills which would short circuit my laptop.
 
 
-The Genesis of this project was the desire to see code have a pragmatic integration within the Internet of Things.
+The Genesis of this project was the desire to use code to have a pragmatic integration within the Internet of Things. 
+
+The result was a program that has positively impacted my life, now as silly as it sounds I have saved 10 minutes to my sleep (pending a call). And 10 minutes to my midafternoon. I definitely want to perform even more task automation. 
 
 
 I incorporated a survey into the project. I verbally asked my colleagues months ago and will be decoumenting their responses as well as using data visualization from Microsoft Forms and format the responses into Power BI or Tableau as well as asking ChatGPT for suggestions and code review. The code review serves as a testing ground for ideas I want to implement, GitHub collaboration hopefully will have a similar effect. 

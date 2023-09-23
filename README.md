@@ -19,6 +19,4 @@ I incorporated a survey into the project. I verbally asked my colleagues months 
 
 I am extremely excited to continue to see where this project goes and what other functions can be improved to better the lives of myself and colleagues.
 
-
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-

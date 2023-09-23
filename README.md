@@ -12,9 +12,13 @@ Allows me to not have computer connected to the Elegoo kit and prevent spills wh
 
 The Genesis of this project was the desire to use code to have a pragmatic integration within the Internet of Things. 
 
-The result was a program that has positively impacted my life, now as silly as it sounds I have saved 10 minutes to my sleep (pending a call). And 10 minutes to my midafternoon. I definitely want to perform even more task automation. 
+The result was a program that has positively impacted my life, now as silly as it sounds I have saved 10 minutes to my sleep (pending a call). And 10 minutes to my midafternoon. I definitely want to perform even more task automation.
 
 
 I incorporated a survey into the project. I verbally asked my colleagues months ago and will be decoumenting their responses as well as using data visualization from Microsoft Forms and format the responses into Power BI or Tableau as well as asking ChatGPT for suggestions and code review. The code review serves as a testing ground for ideas I want to implement, GitHub collaboration hopefully will have a similar effect. 
 
 I am extremely excited to continue to see where this project goes and what other functions can be improved to better the lives of myself and colleagues.
+
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+

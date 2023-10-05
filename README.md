@@ -1,5 +1,5 @@
 # AutoCoffee
-Coffee machined turned on at 0640 and 1620 (04:20 pm) using C++ and an Elegoo Uno R3 kit plus coffee maker to replace the need for me in the morning to get up and make station coffee, saving myself sleep as well as automatically refilling coffee for all firefighters
+Coffee machine turned on at 0640 and 1620 (04:20 pm) using C++ and an Elegoo Uno R3 kit plus coffee maker to replace the need for me in the morning to get up and make station coffee, saving myself sleep as well as automatically refilling coffee for all firefighters
 
 
 The mechanism is controlled via Blink (an Arduino product) and activates a Servo motor with tape and my fingerprint as the initial motor would run but not trigger the on switch as it is a touch based interface.

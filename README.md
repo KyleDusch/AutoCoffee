@@ -15,9 +15,10 @@ The Genesis of this project was the desire to use code to have a pragmatic integ
 The result was a program that has positively impacted my life, now as silly as it sounds I have saved 10 minutes to my sleep (pending a call). And 10 minutes to my midafternoon. I definitely want to perform even more task automation.
 
 
-I incorporated a survey into the project. I verbally asked my colleagues months ago and will be decoumenting their responses as well as using data visualization from Microsoft Forms and format the responses into Power BI or Tableau. Stack Overflow, ChatGPT, and Reddit were all used for suggestions as well as I learned much of my c++ from Hackerrank. The code review serves as a testing ground for ideas I want to implement, GitHub collaboration hopefully will have a similar effect. 
+I incorporated a survey into the project. I verbally asked my colleagues months ago and will be decoumenting their responses as well as using data visualization from Microsoft Forms and format the responses into Power BI or Tableau. Stack Overflow, ChatGPT, and Reddit were all used for suggestions as well as I learned much of my C++ practice on Hackerrank. The code review serves as a testing ground for ideas I want to implement, GitHub collaboration hopefully will have a similar collaboratorial effect. 
 
 I am extremely excited to continue to see where this project goes and what other functions can be improved to better the lives of myself and colleagues.
+
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 
